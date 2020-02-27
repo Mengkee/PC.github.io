@@ -1,0 +1,34 @@
+body {
+
+  background-color: #e6e2eb;
+  background-position: bottom;
+  background-repeat: repeat;
+  background-image: url(./img/bg.png);
+  background-size: 70%;
+
+}
+.container {
+  background-color: #e6e2eb;
+  box-shadow: 5px 5px 8px purple;
+  opacity: 95%;
+
+}
+h1 {
+  text-align: center;
+  font-family: 'Dancing Script';
+}
+.col {
+  background-color: #e6e2eb;
+  opacity: 5%；
+}
+
+.highlight {
+  font-family: cursive;
+}
+
+.sign {
+  text-align: center;
+  font-family: 'Dancing Script';
+  display: block;
+  font-size: 200%;
+}
