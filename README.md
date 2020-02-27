@@ -1,5 +1,5 @@
-
-#Answer 1
+﻿
+# Answer 1
 A good place to start is to check that investing $2,500 per month at 4.86% per annum does produce a fund of $1 million after 20 years. You could then tell the woman that you have verified that the projection is correct.
 
 It should be explained to the woman that the projected fund of $1 million assumed a constant return of 4.86% per annum over the 20-year period. If investment returns vary over time, the projected fund will be different from $1 million, even if the 20-year average return is 4.86%.
@@ -27,7 +27,7 @@ Incorrect use of word “risky”
 A few students used the word “risky” in describing the returns on the mutual fund. Returns that have occurred in the past are never “risky”, even if they have varied over time. Only uncertain future returns can be risky.
 
 
-#Answer 2
+# Answer 2
 To answer this question you need to know:
 (1)        that the surrender value is based on the actuarial reserve for the Whole Life policy.
 
@@ -62,7 +62,7 @@ Risk of dying over next 5 years
 
 Some students thought that the man’s risk of dying over the next 5 years was relevant to the decision. This would only be true if he wanted to spend the surrender value before age 65. The question implies he wants to save for his retirement, so if he took the surrender value he would invest it until age 65. As he has no beneficiary to provide for on death, the size of the death benefit paid to his estate would not matter to him
 
-#Question 3
+# Question 3
 
 An investor is reviewing the investment performance of two fixed interest government bonds in his portfolio. He bought both these bonds three years ago. The current price of each bond is compared with its purchase price in the table below.
 
@@ -75,7 +75,7 @@ The investor observes that 4% Treasury 2060 has been a far superior investment t
 Explain to the investor why the performance of these bonds has differed over the past three years, and advise him on the consequences of his planned transactions.
 
 
-#Answer 3
+# Answer 3
 The investor believes that 4% Treasury 2060 has been a far superior investment to 8% Treasury 2023 over the past 3 years. It is easy to verify that this is correct. The total cash return earned on each bond since he bought them were:
 
 8% Treasury 2023: 3x£8 + (£127 – £139) = £12
@@ -86,7 +86,7 @@ The cash returns calculated above include both interest and the capital gain/los
 
 There is no need to put these calculations in your answer. A good initial statement would be: “You are correct that 4% Treasury 2060 has provided a superior return over the past 3 years than 8% Treasury 2023”.
 
-##Explaining the difference in performance
+## Explaining the difference in performance
 
 The price of 4% Treasury 2060 has increased, but the price of 8% Treasury 2023 has fallen. This has happened because the bonds have different features that make them behave differently.
 
@@ -100,7 +100,7 @@ Over the past 3 years, the maturity yield on 4% Treasury 2060 has fallen from ab
 
 The reduction in maturity yields on both bonds indicates that interest rates have fallen over the past 3 years. Hence, the superior performance on 4% Treasury 2060 is explained by greater impact of falling interest rates on the price of this bond.
 
-##Should the investor re-invest in 4% Treasury 2060?
+## Should the investor re-invest in 4% Treasury 2060?
 
 The investor is considering whether to sell 8% Treasury 2023 and re-invest in 4% Treasury 2060 because the second bond has provided a superior return over the past 3 years. Will this continue in future?
 
@@ -113,7 +113,7 @@ However, the return on 4% Treasury 2060 is very uncertain over the next 4 years 
 It follows that selling 8% Treasury 2023 and re-investing in 4% Treasury 2060 is a risky strategy.  The return on the second bond could be much higher or much lower than 1% per annum.
 
 
-#Question 4
+# Question 4
 A life assurance company introduces a new option for its non-profit endowment assurance policies. Policyholders will be allowed to extend the term of their policies for ten years without paying further premiums. The sum paid on death will not change, but the maturity value will increase by a percentage that depends on the age of the policyholder. The table below shows the percentage increase in maturity value for policyholders at different ages.
 
 Age at start of policy extension | Increase in maturity value
@@ -125,7 +125,7 @@ Age at start of policy extension | Increase in maturity value
 
 A financial journalist asks why older policyholders are offered a larger increase in their maturity value. Explain to the journalist why this is so.
 
-#Answer 4
+# Answer 4
 
 The maturity value offered on the extended policy must be derived from an actuarial calculation.
 
@@ -166,7 +166,7 @@ Option on original policy?
 Some students thought that the policy extension must have been an option on the original policy. The question does not say this, but it would not explain why older policyholders were offered the extension on more favourable terms. Always answer the question before you from first principles instead of trying to use the answer to some other question you have seen.
 
 
-#Answer 5
+# Answer 5
 For the VC fund the loan is an asset, similar to a 10-year fixed interest bond with a maturity yield of 10% per annum. A high maturity yield of 10% was required to compensate for the risk of the restaurant failing and defaulting on its debt. As the restaurant is now successful, the default risk is lower. Consequently, the VC fund uses a discount rate lower than 10% to value the future cash flows of the loan. This increases the value of the loan to above par value, and the VC fund will not settle the loan for less than its current value. The proposed settlement value of £1.22m implies a discount rate of 5% per annum.
 
 This can be explained to the chef by pointing out that the VC fund only provided this risky loan because of the possibility of achieving a high return over 10 years. Now that the restaurant is successful, the loan is worth more to the VC fund than the amount originally advanced. If it were to accept a settlement of £1m, it would be sacrificing part of the reward for making a risky investment.
